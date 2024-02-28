@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varunalla
-- 👀 I’m interested in Full-Stack Web Developmet
+- 👀 I’m interested in Full-Stack Web Development
 - 📫 How to reach me varun.alla@gmail.com
 
 <!---
